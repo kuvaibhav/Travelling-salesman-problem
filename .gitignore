@@ -1,0 +1,12 @@
+.idea
+target
+tsp.iml
+.DS_Store
+.settings
+.vscode
+.project
+.factorypath
+.classpath
+.ipynb_checkpoints
+# Ignore the data CSV files
+*.csv
